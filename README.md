@@ -1,0 +1,1 @@
+edit->preferences->keymap->import
